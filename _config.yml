@@ -17,7 +17,7 @@ rss: rss
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
-
+markdown: kramdown
 # Mastodon instances
 # mastodon:
 # - username: jekyll
