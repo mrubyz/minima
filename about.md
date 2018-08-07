@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: σχετικά με τον σύλλογο
 permalink: /about/
 ---
 
