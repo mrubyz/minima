@@ -2,7 +2,11 @@
 label: toms
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  label: layout
+  name: layout
+  default: page
 pages:
 - following-md.md
 - we-are.md
