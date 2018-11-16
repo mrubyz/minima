@@ -8,6 +8,7 @@ fields:
   name: layout
   default: page
 pages:
+- βρήκαν.md
 - following-md.md
 - we-are.md
 - _posts/2018-08-20-thanks.md
